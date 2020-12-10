@@ -8,6 +8,7 @@ function sound()
 	document.getElementById( id ).play() ;
 }
 
+console.log("JS読み込んでる")
 // function soundStop(){
 // 		// 対象となるID名
 // 		var id = 'sound-file' ;
